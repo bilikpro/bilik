@@ -1,8 +1,8 @@
-#Bilik
+# Bilik
 
 ![](server/public/img/BilikPic.jpg)
 
-###Use your meeting rooms wisely
+### Use your meeting rooms wisely
 No rooms available on your calendar?
 But yet you see many rooms underutilized?
  
@@ -12,12 +12,12 @@ With Bilik-Pro you will be able to maximize your meeting rooms usage at a very a
 - Why Google?: Most of our customers are already using Google Apps for Work as their main office backend. Because of that, we decided to provide our functionality to this type of users first.
 - Always synced: Our application communicates directly with Google Calendar, synchronizing changes immediately. This means that people operating the tablet and people using the web calendar will always see the same information. No additional servers are required. 
 
-####Visit our website at: www.bilikpro.com
-####Or our Facebook: facebook.com/bilikpro
+#### Visit our website at: www.bilikpro.com
+#### Or our Facebook: facebook.com/bilikpro
 
 Before compiling this project be sure to follow the instructions:
 
-#Android project:
+# Android project:
 
 1. Change the package com.vsc.google.api.services.samples.calendar.android.bilik to something of your own (make up a unique name that has never been used before by anyone)
 2. Visit the Google Cloud console flow for the Google Calendar API.
@@ -65,7 +65,7 @@ Before compiling this project be sure to follow the instructions:
 	Mailgun.initialize('...', '...');
 	```
 
-#License
+# License
 
     BilikPro	
 
